@@ -1,99 +1,99 @@
-„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª
-yTitlezAmayado Bus Stop
-yVersion z1.04
-yFilezabt.exe
-yCopyrightzMoonside
-yEnvironmentzRPG Maker VX Ace RTP installed environment
-yTypezFreeware
-yContactzEmailF moon_side_ms@yahoo.co.jp
-@@@@@@WebF http://music.geocities.jp/moon_side_ms/index.html
-„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+ã€Titleã€‘Amayado Bus Stop
+ã€Version ã€‘1.04
+ã€Fileã€‘game.exe
+ã€Copyrightã€‘ Moonside
+ã€Environmentã€‘RPG Maker VX Ace RTP installed environment
+ã€Typeã€‘Freeware
+ã€Contactã€‘Emailï¼š moon_side_ms@yahoo.co.jp
+ã€€ã€€ã€€ã€€ã€€ã€€Webï¼š http://music.geocities.jp/moon_side_ms/index.html
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 
-sSummaryt	
-	At a mountain road behind the school, a bus stop that went out of service twenty years ago, yAmayadoz\\\
-	where bullied girl hChitoseh meets a girl hKobatoh waiting for a bus that shouldn't ever comeEEE
+ã€ŠSummaryã€‹	
+	At a mountain road behind the school, a bus stop that went out of service twenty years ago, ã€Amayadoã€‘â€•â€•â€•
+	where bullied girl â€Chitoseâ€ meets a girl â€Kobatoâ€ waiting for a bus that shouldn't ever comeãƒ»ãƒ»ãƒ»
 
-	¦This is a work of fiction.
+	â€»This is a work of fiction.
 	There is no relation to any real person, organization, or event.
 
-sPlay timet
+ã€ŠPlay timeã€‹
 	2, 3 hours
 
-sEndingst
+ã€ŠEndingsã€‹
 	3 types: true, happy, and bad
 
-sChangest
+ã€ŠChangesã€‹
 	Ver1.04
-	EAdd happy end illustration.
-	EAdded omake for true end under a certain condition.
-	EAdded "water bottles" for saving anywhere.
-	EChanged the password for the documents room.
+	ãƒ»Add happy end illustration.
+	ãƒ»Added omake for true end under a certain condition.
+	ãƒ»Added "water bottles" for saving anywhere.
+	ãƒ»Changed the password for the documents room.
 
 	Ver1.03
-	EFixed typos.
-	EAdded a person who tells number of steps and saves.
-	EChanged conditions for endings.
-	EChanged hint for documents room password.
+	ãƒ»Fixed typos.
+	ãƒ»Added a person who tells number of steps and saves.
+	ãƒ»Changed conditions for endings.
+	ãƒ»Changed hint for documents room password.
 
 	Ver1.02
-	EFix typos.
-	EAdded several events.
-	EChanged END2's final part somewhat.
-	(¦The previous update forgot to mention that the documents room password was changed, inviting confusion.
-	@Sorry for the trouble it may have caused.)
+	ãƒ»Fix typos.
+	ãƒ»Added several events.
+	ãƒ»Changed END2's final part somewhat.
+	(â€»The previous update forgot to mention that the documents room password was changed, inviting confusion.
+	ã€€Sorry for the trouble it may have caused.)
 
 	Ver1.01
-	EFixed reported bugs.
-	EAdded one more ED attainable through number of heart fragments.
-	EChanged password for documents room.
-	EAdded several scares.
+	ãƒ»Fixed reported bugs.
+	ãƒ»Added one more ED attainable through number of heart fragments.
+	ãƒ»Changed password for documents room.
+	ãƒ»Added several scares.
 
-sHow to start gamet
-	Double click uabt.exev to start game.
+ã€ŠHow to start gameã€‹
+	Double click ã€Œabt.exeã€ to start game.
 
-sHow to carry over save datat
+ã€ŠHow to carry over save dataã€‹
 	Move the save data to the folder you download the game to.
 
-sUninstallt
+ã€ŠUninstallã€‹
 	Delete the files.
 
-sControlst
-	Move@@@F[ª©¨«] key
-	Dash@F move while pressing [SHIFT] key
-	Decide@@@F[Z]or[Enter] key
-	Menu@F[X] key
-	MaximiizeF[Alt]{[Enter] key
+ã€ŠControlsã€‹
+	Moveã€€ã€€ã€€ï¼š[â†‘â†â†’â†“] key
+	Dashã€€ï¼š move while pressing [SHIFT] key
+	Decideã€€ã€€ã€€ï¼š[Z]or[Enter] key
+	Menuã€€ï¼š[X] key
+	Maximiizeï¼š[Alt]ï¼‹[Enter] key
 
-sVoicest
+ã€ŠVoicesã€‹
 	Furusato Chitose: Kotori
 	Suzunari Kobato: Motoki Nako
 	Tachibana Akane: Hai
 
-sGame designt
+ã€ŠGame designã€‹
 	Kaoru
 	
-sIllustt
+ã€ŠIllustã€‹
 	Mokaneko
 
-sBGMt
+ã€ŠBGMã€‹
 	Hiro
 
-sResourcest
-	ECharacters/Map tiles
+ã€ŠResourcesã€‹
+	ãƒ»Characters/Map tiles
 
-	”’—m‰Ùq“X/_“âŸ© (White Patisserie)
+	ç™½æ´‹è“å­åº—/ç¥å‡ªæ´¸ (White Patisserie)
 
-	Loose LeafƒLƒƒƒ‰ƒNƒ^[‘fŞ‡¬ƒVƒ~ƒ…ƒŒ[ƒ^/‚l‚`‚b‚j (Loose Leaf Character Resource Character Simulator)
+	Loose Leafã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ç´ æåˆæˆã‚·ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚¿/ï¼­ï¼¡ï¼£ï¼« (Loose Leaf Character Resource Character Simulator)
 
-	‚Ì‚ñ‚Ñ‚è‚Ü‚Á‚½‚è (Nonbiri Mattari)
+	ã®ã‚“ã³ã‚Šã¾ã£ãŸã‚Š (Nonbiri Mattari)
 
-	‚Ğ‚å‚¤‚Ô‚ë‚® (Hyouburogu)
+	ã²ã‚‡ã†ã¶ã‚ã (Hyouburogu)
 
-	ƒhƒbƒgŠG¢ŠE (Dot Art World)
+	ãƒ‰ãƒƒãƒˆçµµä¸–ç•Œ (Dot Art World)
 
-	ƒTƒ{ƒeƒ“‚Ì‰ÔŒ¾—t (Saboten no Hanakotoba)
+	ã‚µãƒœãƒ†ãƒ³ã®èŠ±è¨€è‘‰ (Saboten no Hanakotoba)
 
-	•–‹’àŒ€ê (Koromaku Tei Gekijou)
+	é»’å¹•äº­åŠ‡å ´ (Koromaku Tei Gekijou)
 
 	Auld Lang Syne
 
@@ -103,16 +103,16 @@
 
 	UD COBO
 
-	yˆ«–‚“¶˜bzSatanic õale ˆ«–‚‚ÌŠG–{ (yAkuma DouwazSatanic õale Akuma no Ehon)
+	ã€æ‚ªé­”ç«¥è©±ã€‘Satanic â€ ale æ‚ªé­”ã®çµµæœ¬ (ã€Akuma Douwaã€‘Satanic â€ ale Akuma no Ehon)
 
 
-	EPicture resources
+	ãƒ»Picture resources
 
-	‚®‚Á‚½‚è‚É‚á‚ñ‚±‚Ìƒz[ƒ€ƒy[ƒW (Guttari Nyanko's homepage)
+	ãã£ãŸã‚Šã«ã‚ƒã‚“ã“ã®ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ (Guttari Nyanko's homepage)
 
-	‚É‚á‚ñ‚à (Nyanmo)
+	ã«ã‚ƒã‚“ã‚‚ (Nyanmo)
 
-	‰öŠï‘fŞ‚Æ•|‚¢˜b (Kaiki Sozai to Kowai Hanashi)
+	æ€ªå¥‡ç´ æã¨æ€–ã„è©± (Kaiki Sozai to Kowai Hanashi)
 
 	Cool Text
 
@@ -121,24 +121,24 @@
 	DEEP SEASONS
 
 
-	ESE resources
+	ãƒ»SE resources
 
-	‚Ñ‚½‚¿[‘fŞŠÙ (Vita-chi)
+	ã³ãŸã¡ãƒ¼ç´ æé¤¨ (Vita-chi)
 
-	ƒUEƒ}ƒbƒ`ƒƒCƒJƒ@ƒY (The Mathmakers)
+	ã‚¶ãƒ»ãƒãƒƒãƒãƒ¡ã‚¤ã‚«ã‚¡ã‚º (The Mathmakers)
 
-	–‚‰¤° (Maoudamashii)
+	é­”ç‹é­‚ (Maoudamashii)
 
-	On-Jin `‰¹l`
+	On-Jin ï½éŸ³äººï½
 
 
-	EScript resources
+	ãƒ»Script resources
 
-	‚Ğ‚«‚à‹L (Hikimoki)
+	ã²ãã‚‚è¨˜ (Hikimoki)
 
-	‚İ‚ñ‚Æ‚Ì‚¨•”‰® (Mintoroom)
+	ã¿ã‚“ã¨ã®ãŠéƒ¨å±‹ (Mintoroom)
 
-	ˆê†‚Ì–²AˆêŒ‚ÌŒ¶ (Issui no Yume, Issui no Maboroshi)
+	ä¸€ç‚Šã®å¤¢ã€ä¸€é…”ã®å¹» (Issui no Yume, Issui no Maboroshi)
 
 	Artificial Providence
 
@@ -148,7 +148,7 @@
 
 	Wooden Tkool
 
-sHistoryt
+ã€ŠHistoryã€‹
 	2014 11/04	1.00	Published
 	2014 11/08	1.01	Updated
 	2014 11/14	1.02	Updated
