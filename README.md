@@ -1,6 +1,6 @@
 #ป้ายรถเมล์อามายาโดะ
 
-![](http://www.mx7.com/i/aa7/gvbq2z.png)
+![](https://s21.postimg.org/48qkiw5mf/amayado_smaller.png)
 
 [Amayado bus stop](http://www.freem.ne.jp/win/game/7872) thai translation
 
