@@ -1,4 +1,4 @@
-#ป้ายรถเมล์อามายาโดะ
+# ป้ายรถเมล์อามายาโดะ
 
 ![](https://s21.postimg.org/48qkiw5mf/amayado_smaller.png)
 
